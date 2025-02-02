@@ -1,0 +1,26 @@
+{
+  "name": "time-day",
+  "version": "1.0.0",
+  "description": "Day.js Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyedaaman2/time-day-js.git"
+  },
+  "author": "Aaman Sayyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayyedaaman2/time-day-js/issues"
+  },
+  "homepage": "https://github.com/sayyedaaman2/time-day-js#readme",
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
