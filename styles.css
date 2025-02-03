@@ -51,3 +51,12 @@ body{
     white-space: nowrap;
 
 }
+
+
+.modal {
+    display: none;
+  }
+  
+  .modal.is-open {
+    display: block;
+  }
